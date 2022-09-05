@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello!
+Welcome to my github page.
+
+I am currently studying to be a front-end developer at <a href="https://rs.school"><img alt="rs-school" height="20px" src="https://rs.school/images/rs_school.svg" /></a>
+
+I have basic knowledge in:
+<a href="https://www.javascript.com"><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></a>
+ <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></a>
 
 <!--
 **IvanSemenov82/IvanSemenov82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
