@@ -5,12 +5,12 @@ I am currently studying to be a front-end developer at <a href="https://rs.schoo
 
 
 I have basic knowledge in:
- <a href="https://www.javascript.com"><img alt="JavaScript" height="30px" src="https://cdn.svgporn.com/logos/javascript.svg" /></a>
- <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML5" height="30px" src="https://cdn.svgporn.com/logos/html-5.svg" /></a>
- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img alt="CSS3" height="30px" src="https://cdn.svgporn.com/logos/css-3.svg" /></a>
- <a href="https://www.typescriptlang.org//"><img alt="TypeScript" height="30px" src="https://cdn.svgporn.com/logos/typescript-icon-round.svg" /></a>
- <a href="https://angular.io/"><img alt="Angular" height="30px" src="https://cdn.svgporn.com/logos/angular-icon.svg" /></a>
- <a href="https://reactjs.org/"><img alt="React" height="30px" src="https://cdn.svgporn.com/logos/react.svg" /></a> <br/><br/>
+ <a href="https://www.javascript.com"><img alt="JavaScript" height="20px" src="https://cdn.svgporn.com/logos/javascript.svg" /></a>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML5" height="20px" src="https://cdn.svgporn.com/logos/html-5.svg" /></a>
+ <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img alt="CSS3" height="20px" src="https://cdn.svgporn.com/logos/css-3.svg" /></a>
+ <a href="https://www.typescriptlang.org//"><img alt="TypeScript" height="20px" src="https://cdn.svgporn.com/logos/typescript-icon-round.svg" /></a>
+ <a href="https://angular.io/"><img alt="Angular" height="20px" src="https://cdn.svgporn.com/logos/angular-icon.svg" /></a>
+ <a href="https://reactjs.org/"><img alt="React" height="20px" src="https://cdn.svgporn.com/logos/react.svg" /></a> <br/><br/>
 
 
 My favorite teachers: 
